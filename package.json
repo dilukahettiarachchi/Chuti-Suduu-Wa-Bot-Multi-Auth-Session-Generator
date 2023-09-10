@@ -1,0 +1,17 @@
+{
+  "name": "Chuti-Suduu-Wa-Bot-Multi-Auth-Session",
+  "version": "1.0.0",
+  "description": "Multi auth session generator for whatsapp bot ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Dilla Editz",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "baileys": "^5.0.8",
+    "fs": "^0.0.1-security",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
